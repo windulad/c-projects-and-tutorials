@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662909423 source:c:\users\chari\documents\c\c programs\multi_1\file_1.c
+	<stdio.h>
+	<stdlib.h>
+

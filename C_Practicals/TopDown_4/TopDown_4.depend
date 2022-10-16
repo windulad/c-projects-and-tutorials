@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663103921 source:c:\users\chari\documents\c\c_practicals\topdown_4\main.c
+	<stdio.h>
+	<stdlib.h>
+
